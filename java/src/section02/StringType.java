@@ -12,7 +12,7 @@ public class StringType {
         System.out.println("---");
 
         // stack, heap
-        String c = new String("Java") // 객체 생성
+        String c = new String("Java"); // 객체 생성
         System.out.println(c);
         System.out.println(a == c); // false
         System.out.println(a.equals(c)); // true
