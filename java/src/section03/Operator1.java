@@ -30,7 +30,7 @@ public class Operator1 {
         System.out.println(5 % 2); // 1
 
         // 짝수/홀수 판별
-        System.out.println(5 % 2 == 1); // ture
+        System.out.println(5 % 2 == 1); // true
         System.out.println(5 % 2 == 0); // false
 
         // 비교
