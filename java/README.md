@@ -7,3 +7,6 @@
 2. java: Create Java Project...
 3. No build tools 선택
 4. project name 입력
+
+## 수업자료
+https://github.com/postforty/java-workspace?tab=readme-ov-file
