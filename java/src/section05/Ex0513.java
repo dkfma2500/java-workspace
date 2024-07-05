@@ -1,5 +1,7 @@
 package section05;
 
+import java.util.Scanner;
+
 public class Ex0513 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -14,6 +16,7 @@ public class Ex0513 {
         } while (number !=0);
 
         System.out.println("입력된 숫자의 합: " + sum);
+        scanner.close();
     }
     
 }
