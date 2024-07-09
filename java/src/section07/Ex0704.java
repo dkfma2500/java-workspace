@@ -14,7 +14,7 @@ public class Ex0704 {
 
         Integer[] integerNumbers = {30, 10, 50, 20, 40};
 
-        Arrays.sort(integerNumbers, Collection.reberseOrder());
+        //Arrays.sort(integerNumbers, Collection.reberseOrder());
         
         System.out.println("정렬 후 : " + Arrays.toString(integerNumbers));
 

@@ -16,4 +16,4 @@ public class Practice0702 {
     
     }
     
-}
+

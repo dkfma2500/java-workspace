@@ -10,8 +10,8 @@ public class Practice0703 {
         for (int number: numbers){
             sum += number;
         }
-        double average = (doble)sum/numbers.length;
-        System.out.println("배열요소 평균: " + average);
+        //double average = (doble)sum/numbers.length;
+        //System.out.println("배열요소 평균: " + average);
 
     }
     
