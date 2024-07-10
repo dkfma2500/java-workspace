@@ -4,8 +4,8 @@ public class Animal {
     String name;
     // name = 'Navi'; 이 방법으로 초기화 불가
 
-    public void setName(String n) {
-        name = n;
+    public void setName(String name) {
+        this.name = name;
     }
 }
 
