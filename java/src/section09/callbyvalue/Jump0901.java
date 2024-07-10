@@ -1,7 +1,5 @@
 package section09.callbyvalue;
 
-import section09.callbyreference.Counter;
-import section09.callbyreference.Updater;
 
 class Updater {
     void update(int count) {
