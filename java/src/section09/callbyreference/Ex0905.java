@@ -19,6 +19,7 @@ public class Ex0905 {
 
         System.out.println("modifyPerson() 메서드 호출 전 person.name\t: " + person.name);
 
+        // 객체에 의한 호출(Call by Reference)
         modifyPerson(person);
 
         System.out.println("modifyPerson() 메서드 호출 후 person.name\t: " + person.name);
