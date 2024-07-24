@@ -3,7 +3,7 @@ package section16.ex02;
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-public class Ex16_06 {
+public class Ex1606 {
     public static void main(String[] args) {
         ArrayList<Integer> arrayList = new ArrayList<>();
         LinkedList<Integer> linkedList = new LinkedList<>();
